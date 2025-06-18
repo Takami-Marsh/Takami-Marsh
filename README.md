@@ -57,29 +57,18 @@
 
 ---
 
-## 🚀 Selected Projects
-
-| Project               | Description                                                             | Tech                          |
-|-----------------------|-------------------------------------------------------------------------|-------------------------------|
-| **pendulum_sim**      | Simulates pendulum motion & computes _g_ via ODE & small-angle methods  | Python, NumPy, Matplotlib     |
-| **TSNB**              | Decentralized IPv6 chat app w/ symmetric NAT traversal (no TURN)        | Dart, Flutter, WebRTC         |
-| **digits_recognition**| CGAN + RL pipeline for digit classification & data augmentation         | Python, TensorFlow, PyTorch   |
-| **higa_tutor_portal** | Tutor-student matching system for HiGA                                   | PHP, MySQL, JavaScript        |
-| **P2P-NAT-Traversal** | Prototype library for symmetric NAT communication                       | C++, UDP, STUN                |
-| **music-CLI**         | Generates church-style compositions via rule-based algorithms            | Python                        |
-| **TtsZoo App**        | Matching + social features for local community via Flutter              | Dart, Firebase                |
-
-_For a full list, check out my [GitHub profile](https://github.com/Takami-Marsh)_  
-
----
-
 ## 📈 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Takami-Marsh">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Takami-Marsh&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    <img width="48%" src="https://github-readme-achievements.vercel.app/api?username=Takami-Marsh&theme=radical" alt="Achievements" />
+    <!-- Activity graph -->
+    <img src="https://activity-graph.herokuapp.com/graph?username=Takami-Marsh&theme=react-dark&hide_border=true" width="600" alt="Contribution Graph" />
   </a>
+  <br/>
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Takami-Marsh&theme=radical&hide_border=true" width="49%" alt="Streak stats" />
+  <!-- Profile trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Takami-Marsh&theme=radical&no-frame=true" width="49%" alt="Trophies" />
 </p>
 
 ---
